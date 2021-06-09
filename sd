@@ -1,0 +1,563 @@
+[33mcommit fff911bde119596a5153f2048d6449d99956d6e3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 9db93fa 71377a6
+Author: robert <rguezrobert>
+Date:   Thu Mar 28 16:01:55 2019 -0500
+
+    merge
+
+[33mcommit 9db93fab368ad3fd86bebb2d9f08dbe99c13dbad[m
+Author: robert <rguezrobert>
+Date:   Thu Mar 28 15:59:30 2019 -0500
+
+    avances tablas y estados de tracking
+
+[33mcommit 71377a634f72d55f22fc77394a4a7e529044bfb3[m
+Author: unknown <alvaro.picho@pucp.pe>
+Date:   Thu Mar 28 15:46:22 2019 -0500
+
+    username
+
+[33mcommit 12d738868b1ba140a929a1225df25b382849f009[m
+Author: unknown <alvaro.picho@pucp.pe>
+Date:   Thu Mar 28 14:30:52 2019 -0500
+
+    auth middleware
+
+[33mcommit 3c81f0584bf0ac15086c7ea4be311535ef2a287e[m
+Author: unknown <alvaro.picho@pucp.pe>
+Date:   Thu Mar 28 10:18:30 2019 -0500
+
+    improvement order table
+
+[33mcommit 3c2cb17af92d515cf65fc42038a9d0984f713622[m
+Merge: a9105fc d611daf
+Author: unknown <alvaro.picho@pucp.pe>
+Date:   Thu Mar 28 01:43:22 2019 -0500
+
+    Merge branch 'master' of https://github.com/alropidi93/envios-web-application
+
+[33mcommit a9105fcd2cfd03f5fdd5733d92c821a92ad2980d[m
+Author: unknown <alvaro.picho@pucp.pe>
+Date:   Thu Mar 28 01:43:05 2019 -0500
+
+    something special fixed
+
+[33mcommit d611dafaeadae67b34202dc103c5f7bd796140dc[m
+Merge: 63d7c4a 682761c
+Author: kevineil <a20105543@pucp.pe>
+Date:   Wed Mar 27 17:27:13 2019 -0500
+
+    Merge branch 'master' of https://github.com/alropidi93/envios-web-application
+
+[33mcommit 63d7c4a8dc1b3f6306a566863d457dc1a9f5279e[m
+Author: kevineil <a20105543@pucp.pe>
+Date:   Wed Mar 27 17:26:37 2019 -0500
+
+    user verification dni done
+
+[33mcommit 682761cd804e37386ef163b0226e1ba745cfed3a[m
+Merge: 2386bae 776513a
+Author: robert <rguezrobert>
+Date:   Wed Mar 27 17:01:50 2019 -0500
+
+    Merge branch 'master' of https://github.com/alropidi93/envios-web-application
+
+[33mcommit 2386baed7088b3cf5d5de17344ce8b86fc9c884c[m
+Author: robert <rguezrobert>
+Date:   Wed Mar 27 17:01:34 2019 -0500
+
+    creacion template
+
+[33mcommit 776513a74e8675ce29167210b9127c8044307d5a[m
+Merge: 692fe72 b0584d8
+Author: kevineil <a20105543@pucp.pe>
+Date:   Wed Mar 27 15:18:08 2019 -0500
+
+    modal confirmation
+
+[33mcommit 692fe7234c39955ded92587d2b1a32a524272db0[m
+Author: kevineil <a20105543@pucp.pe>
+Date:   Wed Mar 27 12:44:08 2019 -0500
+
+    orden de compra por grabr
+
+[33mcommit b0584d80ec29b47cc0a645da4b357b226983c281[m
+Author: unknown <alvaro.picho@pucp.pe>
+Date:   Wed Mar 27 10:19:31 2019 -0500
+
+    template for tracking
+
+[33mcommit 852ef031d31466211206e4a1f70025cdf25d08f3[m
+Author: kevineil <a20105543@pucp.pe>
+Date:   Tue Mar 26 18:05:20 2019 -0500
+
+    try to get city list
+
+[33mcommit 0c9cbaa051c061ea31f33fdda71fb870a60d9aeb[m
+Author: kevineil <a20105543@pucp.pe>
+Date:   Tue Mar 26 11:27:14 2019 -0500
+
+    neil push
+
+[33mcommit 569a8ec41ec82d3a37db8511e5d748bb5013d359[m
+Merge: 7e9e751 25d7f8a
+Author: kevineil <a20105543@pucp.pe>
+Date:   Tue Mar 26 11:22:31 2019 -0500
+
+    Merge branch 'master' of https://github.com/alropidi93/envios-web-application
+
+[33mcommit 7e9e7518fe61456548dbaf9f4db42fe70fb4e309[m
+Author: kevineil <a20105543@pucp.pe>
+Date:   Tue Mar 26 11:22:20 2019 -0500
+
+    rewqr
+
+[33mcommit 25d7f8a56f8b890dd1e27578c6785d09efb579c4[m
+Merge: 38881d1 557177a
+Author: unknown <alvaro.picho@pucp.pe>
+Date:   Tue Mar 26 11:21:40 2019 -0500
+
+    merging
+
+[33mcommit a4951b3e4adeb78c4fd66b412b5cd7353e8c38bb[m
+Merge: bb461b9 557177a
+Author: kevineil <a20105543@pucp.pe>
+Date:   Tue Mar 26 11:14:21 2019 -0500
+
+    Merge branch 'master' of https://github.com/alropidi93/envios-web-application
+
+[33mcommit bb461b97099bfad7c66d7b29d058b64080d179f9[m
+Author: kevineil <a20105543@pucp.pe>
+Date:   Tue Mar 26 11:14:08 2019 -0500
+
+    qwerty
+
+[33mcommit 557177a97d02d468566bf83e3b077e28e0873d04[m
+Merge: e0c2c71 bba6dbb
+Author: robert <rguezrobert>
+Date:   Tue Mar 26 11:12:22 2019 -0500
+
+    edicion tablas y validacion clientes
+
+[33mcommit e0c2c71afe133b2e400a26160b32e135a02c8698[m
+Author: robert <rguezrobert>
+Date:   Tue Mar 26 11:08:28 2019 -0500
+
+    edicion tablas y vista validacion cliente
+
+[33mcommit 38881d139487021c439b3392df574ab64d43c531[m
+Author: unknown <alvaro.picho@pucp.pe>
+Date:   Tue Mar 26 11:06:26 2019 -0500
+
+    solving table issues
+
+[33mcommit bba6dbb37961b621ddee432d1340ac1535680add[m
+Author: kevineil <a20105543@pucp.pe>
+Date:   Mon Mar 25 17:20:24 2019 -0500
+
+    lapsus botonoe
+
+[33mcommit 6dafe0c7a5cd791dd027ed2ba31a29678c6114a9[m
+Author: kevineil <a20105543@pucp.pe>
+Date:   Mon Mar 25 17:17:32 2019 -0500
+
+    erased a btn
+
+[33mcommit a68f7325437c22abc034af5549c4748a1f8b3b91[m
+Merge: bc094e0 4319f6b
+Author: robert <rguezrobert>
+Date:   Mon Mar 25 17:12:09 2019 -0500
+
+    merge
+
+[33mcommit bc094e068ab3e81470e764852e95f44173a62a9a[m
+Author: robert <rguezrobert>
+Date:   Mon Mar 25 17:08:32 2019 -0500
+
+    Mejoras para el disenho de paginacion
+
+[33mcommit 4319f6bf1d4bf61a0d0fce81f1f09d4ad99b324d[m
+Author: kevineil <a20105543@pucp.pe>
+Date:   Mon Mar 25 17:05:46 2019 -0500
+
+    neil changes
+
+[33mcommit 1d44169887225e5778cdff50e56b8c53612ca1ef[m
+Author: kevineil <a20105543@pucp.pe>
+Date:   Mon Mar 25 12:13:52 2019 -0500
+
+    form purchase order ciclo
+
+[33mcommit feb969f19a0965436e9004e7ed3598deaf29779c[m
+Merge: 9ba6a67 405357d
+Author: robert <rguezrobert>
+Date:   Mon Mar 25 09:56:19 2019 -0500
+
+    avances de estados de evalaucion
+
+[33mcommit 9ba6a6777c5c6dba96980b8407bffbdaebe088f3[m
+Author: robert <rguezrobert>
+Date:   Mon Mar 25 08:35:28 2019 -0500
+
+    avance clases de evaluacion css
+
+[33mcommit 405357d2fd06d029e0198b1e9845bb788e751a51[m
+Author: unknown <alvaro.picho@pucp.pe>
+Date:   Mon Mar 25 00:20:58 2019 -0500
+
+    login correction
+
+[33mcommit 5981f7119c474523b0738831b553f25141111348[m
+Author: luisejv <ljauregui@pucp.pe>
+Date:   Sun Mar 24 23:30:02 2019 -0500
+
+    form's state management
+
+[33mcommit aea7ac6f7236a5ae9945e23169b105e9fc8adaa3[m
+Author: luisejv <ljauregui@pucp.pe>
+Date:   Thu Mar 21 17:11:03 2019 -0500
+
+    Finishing Order tables
+
+[33mcommit 45e875a7efbfa331d7b6fc67aec02de927a368e5[m
+Merge: 3b280ec e4cf437
+Author: robert <rguezrobert>
+Date:   Thu Mar 21 16:59:29 2019 -0500
+
+    Merge branch 'master' of https://github.com/alropidi93/envios-web-application
+
+[33mcommit 3b280ec05bd8fc52827f30a2345f6fc9bdb7048a[m
+Merge: 6f026d7 5959cb9
+Author: robert <rguezrobert>
+Date:   Thu Mar 21 16:59:15 2019 -0500
+
+    avances vista de creacion orden de compra
+
+[33mcommit e4cf437bc20c638a08127d9e103b6c0a7b940f59[m
+Author: unknown <alvaro.picho@pucp.pe>
+Date:   Thu Mar 21 16:38:34 2019 -0500
+
+    solutions for life
+
+[33mcommit 865df0f41be161347e4f9d20c53d8781434d5dd6[m
+Author: unknown <alvaro.picho@pucp.pe>
+Date:   Thu Mar 21 16:37:57 2019 -0500
+
+    solutions for life
+
+[33mcommit c6a8c5d0f6b7585b43c334cb320e67e9301b0a01[m
+Author: luisejv <ljauregui@pucp.pe>
+Date:   Thu Mar 21 16:09:43 2019 -0500
+
+    Filters Fix
+
+[33mcommit d4c92788d9e207cc41149d44c0f17e94e14cbaf0[m
+Merge: 9c82c09 bc3eb2d
+Author: luisejv <ljauregui@pucp.pe>
+Date:   Thu Mar 21 10:38:44 2019 -0500
+
+    Merge branch 'master' of https://github.com/alropidi93/envios-web-application
+
+[33mcommit 9c82c096d3ee8e51988858dc66262c8cab86157e[m
+Author: luisejv <ljauregui@pucp.pe>
+Date:   Thu Mar 21 10:37:26 2019 -0500
+
+    Avance rutas y formulario registro cliente
+
+[33mcommit bc3eb2d61e7c7c5cfe5a5a53b6b17e7f5cd63543[m
+Author: unknown <alvaro.picho@pucp.pe>
+Date:   Thu Mar 21 10:33:46 2019 -0500
+
+    changes
+
+[33mcommit a6465f91daf6f5e3d3bd627cf36618f5dabade50[m
+Merge: bd2da7e 5959cb9
+Author: unknown <alvaro.picho@pucp.pe>
+Date:   Wed Mar 20 21:34:42 2019 -0500
+
+    Merge branch 'master' of https://github.com/alropidi93/envios-web-application
+
+[33mcommit bd2da7e8a2655fc6771192dcce1fb18662441ef7[m
+Author: unknown <alvaro.picho@pucp.pe>
+Date:   Wed Mar 20 21:34:18 2019 -0500
+
+    retrieving data
+
+[33mcommit 6f026d755ed6638dd0ca10fb488bffaf51b10366[m
+Author: robert <rguezrobert>
+Date:   Wed Mar 20 17:04:17 2019 -0500
+
+    avances de formulario orden de compra
+
+[33mcommit 5959cb94a3e4604af20a71528be7c028ca8d4316[m
+Author: luisejv <ljauregui@pucp.pe>
+Date:   Wed Mar 20 14:42:48 2019 -0500
+
+    push merge solution
+
+[33mcommit 8d28ba994ac3bcaefac6c2492c5030e31aa5681c[m
+Author: luisejv <ljauregui@pucp.pe>
+Date:   Wed Mar 20 12:02:14 2019 -0500
+
+    push fix merge conflict
+
+[33mcommit b3129ebd6c2ede1d49c72c901745fac397466564[m
+Merge: dc73772 1772fad
+Author: luisejv <ljauregui@pucp.pe>
+Date:   Wed Mar 20 12:00:40 2019 -0500
+
+    push merge conflict
+
+[33mcommit dc737724f8255a194b7d9e951b6087006a506f7f[m
+Author: luisejv <ljauregui@pucp.pe>
+Date:   Wed Mar 20 11:36:40 2019 -0500
+
+    Tables first push
+
+[33mcommit 1772fadace380c57a26a69e95a4b8e8bbd35d6f4[m
+Author: robert <rguezrobert>
+Date:   Tue Mar 19 17:02:54 2019 -0500
+
+    formularios de crear oferta
+
+[33mcommit 0775e904d17733bac325e6317b50ea0d7d4dab59[m
+Merge: 746e309 0d970bb
+Author: luisejv <ljauregui@pucp.pe>
+Date:   Tue Mar 19 09:37:25 2019 -0500
+
+    Merge branch 'master' of https://github.com/alropidi93/envios-web-application
+
+[33mcommit 746e309bab28d151fffe0a306725fcc6b81de5ee[m
+Author: luisejv <ljauregui@pucp.pe>
+Date:   Tue Mar 19 09:36:47 2019 -0500
+
+    Dashboard first push
+
+[33mcommit 0d970bba294e92abb202ada9e61633bc6769bea8[m
+Merge: ad1a35b c58549f
+Author: robert <rguezrobert>
+Date:   Tue Mar 19 09:27:44 2019 -0500
+
+    merge solution
+
+[33mcommit ad1a35be155e8a9e4e9ea73892956d06fe9a489c[m
+Author: robert <rguezrobert>
+Date:   Mon Mar 18 17:03:04 2019 -0500
+
+    Avance de formulario de orden de compra Grabr
+
+[33mcommit c58549fa5b913cfe08dc625802a6fa5533fad3b6[m
+Author: luisejv <ljauregui@pucp.pe>
+Date:   Mon Mar 18 15:18:14 2019 -0500
+
+    Client register form
+
+[33mcommit 78dec94c1ae30e43cc8074a78a1909689a1a4a4a[m
+Author: luisejv <ljauregui@pucp.pe>
+Date:   Fri Mar 15 09:45:06 2019 -0500
+
+    Login
+
+[33mcommit f6d178adf517283e8b6dd7fba39793f0a0b0da54[m
+Merge: 9fed7a3 985a4eb
+Author: Gil Ferreira <Gfgilly@gmail.com>
+Date:   Thu Jan 3 12:38:52 2019 -0500
+
+    Merge pull request #77 from misterGF/dev
+    
+    Refactors common code into own components
+
+[33mcommit 985a4ebd8fdbfe79dc94447087e3ded2f966a216[m
+Author: Gil Ferreira <Gfgilly@gmail.com>
+Date:   Thu Jan 3 12:30:09 2019 -0500
+
+    Removed scss from notification item vue as well
+
+[33mcommit 84c5135ac62bbba1dbb8c2aa14d65f576da25685[m
+Merge: 9fed7a3 5db6754
+Author: Gil Ferreira <Gfgilly@gmail.com>
+Date:   Thu Jan 3 11:47:21 2019 -0500
+
+    Merge pull request #75 from Namoshek/refactor-dash-into-components
+    
+    Refactors common code into own components
+
+[33mcommit 5db6754b6338beb790c8981763e95f7b8b77f352[m
+Author: Namoshek <marvin-mall@msn.com>
+Date:   Fri Aug 31 22:56:01 2018 +0200
+
+    convert scss of notification components into css
+
+[33mcommit b820589dbb162c28fc5bfaf1f62ca64b7726e8c8[m
+Author: Namoshek <marvin-mall@msn.com>
+Date:   Sun Aug 19 14:43:03 2018 +0200
+
+    add a nice notifications menu
+    
+    the menu has a tab for old and a tab for new notifications
+
+[33mcommit c75e5ab80045d90bdc57be009531034162334fce[m
+Author: Namoshek <marvin-mall@msn.com>
+Date:   Sun Aug 19 14:42:36 2018 +0200
+
+    fix binding error of progress in dashboard view
+
+[33mcommit 04ab68f9727e7907f63ce16510868686af21c5fe[m
+Author: Namoshek <marvin-mall@msn.com>
+Date:   Sun Aug 19 12:00:32 2018 +0200
+
+    refactor dashboard into widget components
+
+[33mcommit 3a4de62d8b75d76bf38559deec9b83ab1eb1051f[m
+Author: Namoshek <marvin-mall@msn.com>
+Date:   Sun Aug 19 11:14:44 2018 +0200
+
+    extract message item into own component and add real test message
+
+[33mcommit 7594662d2617a13f9c269d67e037649daae97422[m
+Author: Namoshek <marvin-mall@msn.com>
+Date:   Sun Aug 19 11:03:34 2018 +0200
+
+    move layout components into own directory
+
+[33mcommit fe1e29f3804c13ab0db32f64a56f79dd900b63ab[m
+Author: Namoshek <marvin-mall@msn.com>
+Date:   Sun Aug 19 10:37:47 2018 +0200
+
+    refactor menus into own components and rename demo to user
+
+[33mcommit f399356aba699ff91cd98d14152f3ac27585b767[m
+Author: Namoshek <marvin-mall@msn.com>
+Date:   Sun Aug 19 10:16:40 2018 +0200
+
+    refactor dash header and footer into own components
+
+[33mcommit 9fed7a30f196d658ce3beb8c40318d0968da945e[m
+Author: Gil Ferreira <Gfgilly@gmail.com>
+Date:   Fri Aug 31 16:26:03 2018 -0400
+
+    Most of our windows users have been having issues with the node-saas package and I decided to remove it as a devdependency in the base project. Also fixed datatables.
+
+[33mcommit 34e49926f367cd817a41a6005a122a88edabc275[m
+Author: Gil Ferreira <Gfgilly@gmail.com>
+Date:   Fri Jun 1 10:40:45 2018 -0400
+
+    Added style to fix wiggles in dashbaord issue #18
+
+[33mcommit 2bc171f5afb33bc6912d19670b6b91e3f9ed0454[m
+Author: Gil Ferreira <Gfgilly@gmail.com>
+Date:   Mon May 21 16:22:56 2018 -0400
+
+    Adjustment spacing on the file menu
+
+[33mcommit ab02252fce33d4f3b3891e6405edcaee1fc0718c[m
+Author: Gil Ferreira <Gfgilly@gmail.com>
+Date:   Mon May 21 15:54:43 2018 -0400
+
+    Adding in bugsnag for bug monitoring
+
+[33mcommit 8e32e467e7d1eed03dd96886668d860359b06573[m
+Merge: d49452f ee855bc
+Author: Gil Ferreira <Gfgilly@gmail.com>
+Date:   Wed Apr 18 14:35:58 2018 -0400
+
+    Merge pull request #70 from liamrathke/master
+    
+    Shows text of Treeview in collapsed sidebar
+
+[33mcommit ee855bcc7884b4543ef85afa734a65145e34aabb[m
+Author: liamrathke <liam.rathke@gmail.com>
+Date:   Mon Apr 16 11:39:05 2018 -0400
+
+    Fixes error showing title of Treeview in collapsed sidebar
+    
+    In a collapsible list of titles on the sidebar, the list's name (the Treeview title) did not show when the sidebar was collapsed and the title was hovered over
+
+[33mcommit d49452f38badb4d05e4987e18f7d6ad93b37d53d[m
+Author: Gil Ferreira <Gfgilly@gmail.com>
+Date:   Tue Feb 27 12:17:08 2018 -0500
+
+    Adjustment to search form in higher res screens
+
+[33mcommit cfe1bfc6401bc818aeb1e75c540d8702ce730e86[m
+Author: Gil Ferreira <Gfgilly@gmail.com>
+Date:   Tue Feb 27 12:01:25 2018 -0500
+
+    Reverted node-sass version
+
+[33mcommit baebe07f91e780a9cf861ed08c4a694a9cbae931[m
+Author: Gil Ferreira <Gfgilly@gmail.com>
+Date:   Tue Feb 27 11:35:47 2018 -0500
+
+    Some fixes to search container
+
+[33mcommit 26aac81cf707242c41b8a55878b337cfdc310aa7[m
+Author: Gil Ferreira <Gfgilly@gmail.com>
+Date:   Tue Feb 27 10:18:45 2018 -0500
+
+    Fixed bad node-sass version
+
+[33mcommit b2f18d778db6ae1b205d120afaa4cb7d324a88cf[m
+Author: Gil Ferreira <Gfgilly@gmail.com>
+Date:   Thu Feb 8 13:44:10 2018 -0500
+
+    Adjustment to larger screen for login page
+
+[33mcommit ac52ee919ac664dc0b8a3c3f53df136ac6c45c30[m
+Author: Gil Ferreira <Gfgilly@gmail.com>
+Date:   Thu Feb 8 13:25:13 2018 -0500
+
+    Simplified 404 and added new utility class to login
+
+[33mcommit 68c5c38c4027d4aab32421628bb97623db2f51d3[m
+Author: Gil Ferreira <Gfgilly@gmail.com>
+Date:   Thu Feb 8 13:12:45 2018 -0500
+
+    Adjustments to login page to simplify it.
+
+[33mcommit 0aaa7f0c415e022ec2f6d82d2e2f64512da4e695[m
+Author: Gil Ferreira <Gfgilly@gmail.com>
+Date:   Mon Jan 22 10:35:19 2018 -0500
+
+    Updated jquery due to security vulnerability
+
+[33mcommit 5f9c05b69d42c7aaf7f1ead1f6ba645fb6b3afa2[m
+Merge: 21c80bc 90f52eb
+Author: Gil Ferreira <Gfgilly@gmail.com>
+Date:   Mon Jan 22 10:00:58 2018 -0500
+
+    Merge pull request #65 from samayo/master
+    
+    Correct component name Sidebarname => SidebarMenu
+
+[33mcommit 90f52ebf8b50a60528503ca5fa190f74f00a3ad9[m
+Author: samayo <samayo@protonmail.ch>
+Date:   Sat Jan 6 11:27:14 2018 +0100
+
+    Correct component name Sidebarname => SidebarMenu
+
+[33mcommit 21c80bc80800dae0c9305d67d183a514d6853f45[m
+Merge: 7e4350f 5c57c83
+Author: Gil Ferreira <Gfgilly@gmail.com>
+Date:   Tue Oct 24 18:57:48 2017 -0400
+
+    Merge pull request #62 from janakact/master
+    
+    Fix error on Internet Explorer
+
+[33mcommit 5c57c837fff373783005b4af365efc583a5037c6[m
+Author: Janaka <janakact@users.noreply.github.com>
+Date:   Fri Oct 20 23:18:41 2017 +0530
+
+    Fix error on Internet Explorer
+    
+    Fix Error "vuex requires a promise polyfill in this browser" on Internet Explorer
+
+[33mcommit 7e4350ff7f4764141736bd9662aed8e79ca53dd1[m
+Merge: f6e7b16 5c9e458
+Author: Gil Ferreira <Gfgilly@gmail.com>
+Date:   Mon Oct 2 15:47:53 2017 -0400
+
+    Merge pull request #55 from cruzzan/fix/fix-e2e-tests
+    
+    Fix e2e tests

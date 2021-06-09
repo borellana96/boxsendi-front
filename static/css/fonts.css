@@ -1,0 +1,32 @@
+
+@font-face {
+font-family: 'Poppins-Bold';
+src:  url("/static/fonts/Poppins-Bold.ttf") format('truetype');
+}
+
+@font-face {
+font-family: 'Poppins-Regular';
+src:  url("/static/fonts/Poppins-Regular.ttf") format('truetype');
+}
+
+@font-face {
+font-family: 'Poppins-Medium';
+src:  url("/static/fonts/Poppins-Medium.ttf") format('truetype');
+}
+
+
+@font-face {
+font-family: 'Graphik-Bold-Web';
+src:  url("/static/fonts/Graphik-Bold-Web.ttf") format('truetype');
+}
+
+@font-face {
+font-family: 'Graphik-Medium-Web';
+src:  url("/static/fonts/Graphik-Medium-Web.ttf") format('truetype');
+}
+
+@font-face {
+font-family: 'Graphik-Regular-Web';
+src:  url("/static/fonts/Graphik-Regular-Web.ttf") format('truetype');
+}
+

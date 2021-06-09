@@ -1,0 +1,444 @@
+
+@media all and (max-width: 1199px) { 
+  
+  .modal-tabs {
+    max-height: 410px;
+  }
+
+  .modal-scroll {
+    max-height: 430px;
+  }
+
+  .details2 .details-block span {
+    display: block;
+    position: relative;
+  }
+
+  .details1, .details2 {
+    width: 35%;
+  }
+
+  #order-code {
+    padding: 10px 0 0 0;
+    margin: 0;
+    display: block;
+    border-left: none;
+  }
+
+  .details-block .tag-cut{
+    display: none;
+  }
+
+}
+
+@media all and (max-width: 991px) { 
+  
+  .f-content {
+    width: 33.33%;
+  }
+
+  .select-login {
+    width: 100%;
+  }
+
+  .bienvenido-grid-content {
+    flex-basis: 50%;
+    max-width: 50%;
+    padding: 2em;
+    flex:2;
+   
+  }
+
+  .form_container > .form-test:nth-child(1) {
+    width: 50%;
+  }
+
+  .form_container > .form-test:nth-child(2) {
+    width: 50%;
+  }
+
+  .chooseOrder .vitrina li {
+    width: 100%;
+  }
+
+  .resumeOrder .vitrina li {
+    width: 100%;
+  }
+
+  .main-sidebar {
+    -webkit-transform: translate(-230px, 0);
+    -ms-transform: translate(-230px, 0);
+    -o-transform: translate(-230px, 0);
+    transform: translate(-230px, 0)
+  }
+
+  .content-wrapper, .right-side, .main-footer {
+    margin-left: 0;
+  }
+
+  .details2 .details-block span {
+    display: block;
+    position: relative;
+  }
+
+  .details1, .details2 {
+    width: 35%;
+  }
+
+}
+
+@media all and (max-width: 768px) {
+
+  .content-wrapper, .right-side, .main-footer {
+      margin-left: 0;
+  }
+
+  .main-header>.navbar {
+      margin-left: 0;
+  }
+
+  .sub-header {
+      margin-left: 0;
+  }
+
+  .main-sidebar, .left-side {
+      padding-top: 70px;
+  }
+
+  .sidebar-open .content-wrapper, .sidebar-open .right-side, .sidebar-open .main-footer {
+      transform: translate(210px, 0);
+  }
+
+  .details-tab .card {
+      padding: 2%;
+  }
+
+  .s {
+      display: block;
+  }
+
+  .details-image {
+      width: 100%;
+  }
+
+  .details1, .details2 {
+      width: 100%;
+      padding-right: 0;
+  }
+
+  .details2{
+    margin-top:20px;
+  }
+
+
+  .container-type {
+      display: block;
+  }
+  .resumen-type-details {
+      width: 100%;
+          margin: 0;
+  }
+
+  .card {
+      margin: 4% 0 0 0;
+  }
+
+  .details-tab .card {
+      padding: 2%;
+  }
+
+  .container-type {
+      display: block;
+  }
+  .resumen-type-details {
+      width: 100%;
+          margin: 0;
+  }
+
+  .card .text-right {
+      position: relative;
+      text-align: left!important;
+          margin: 0 1em 1em 1em;
+  }
+
+  .skin-blue .main-header .navbar .dropdown-menu li a {
+      color: inherit;
+  }
+
+  .f-content {
+    width: 100%;
+  }
+
+  .select-login {
+    width: 70%;
+  }
+
+  .bienvenido-grid-content {
+    flex-basis: 50%;
+    max-width: 50%;
+    padding: 2em;
+    flex:2;
+   
+  }
+
+  .vitrina li {
+    width: 33.33%;
+  }
+
+  .form_container > .form-test:nth-child(1) {
+    width: 50%;
+  }
+
+  .form_container > .form-test:nth-child(2) {
+    width: 50%;
+  }
+
+  .chooseOrder .vitrina li {
+    width: 100%;
+  }
+
+  .resumeOrder .vitrina li {
+    width: 100%;
+  }
+
+}
+
+@media all and (max-width: 575px) {
+
+  .content-wrapper, .right-side, .main-footer {
+    margin-left: 0;
+  }
+
+  .main-header>.navbar {
+    margin-left: 0;
+  }
+
+  .sub-header {
+    margin-left: 0;
+    height: auto;
+    display: block;
+    padding: 15px 0 10px 0;
+    display: none;
+  }
+
+  #order-code {
+    padding: 0;
+    margin: 10px 0 0 0;
+    display: block;
+  }
+
+  .resumen_orden {
+    display: block;
+  }
+
+  .details-block p {
+    display: inline-block;
+  }
+
+  .details-block span {
+    display: block;
+    position: relative;
+  }
+
+  .details-block p span {
+    display: none;
+  }
+
+  .newOrder {
+    margin-top: 4em;
+  }
+
+
+ .userbox .profile-info {
+    display: none;
+  }
+
+ .nav-up {
+  margin-top: 0px;
+  }
+
+  .tableFilters {
+  display: block;
+  }
+
+  .filter-search,.filter-status, .filter-type {
+    display: block;
+    flex: 0 0 100%;
+    max-width: 100%;
+    padding: 10px 0;
+  }
+
+  .main-sidebar{
+        padding-top: 5em;
+  }
+
+  .sidebar-open .content-wrapper, .sidebar-open .right-side, .sidebar-open .main-footer {
+      transform: translate(210px, 0);
+  }
+
+  .form-2 {
+      width: 100%;
+  }
+
+  .progressbar li:before {
+      width: 3rem;
+      height: 3rem;
+      line-height: 2.7rem;
+  }
+
+  .resumen_content {
+      width: 100%;
+      padding: 0;
+  }
+
+  .resumen_titulo {
+      width: 100%;
+      padding: 0 0 5px 0;
+  }
+
+  .card-content{
+    margin: 0 1em 0em 1em;
+  }
+
+  .card li {
+    display: block;
+  }
+
+  .skin-blue .main-header .navbar .dropdown-menu li a {
+      color: inherit;
+  }
+
+  .navbar-custom-menu>.navbar-nav>li>.dropdown-menu {
+      min-width: 380px;
+  }
+
+  .navbar-custom-menu>.navbar-nav>li>.dropNotifications {
+    width: 380px;
+  }
+
+  .navbar-custom-menu>.navbar-nav>li>.dropdown-menu {
+    position: absolute;
+    right: 0;
+    left: 0;
+    margin:0 auto;
+  }
+
+  .status-content {
+    display: block;
+    }
+
+  .tag-content {
+    align-items: center;
+    margin-bottom: 15px;
+  }
+
+  .rr {
+       margin-bottom: 15px;
+  }
+
+  .s {
+      display: block;
+  }
+
+  .details-image {
+      width: 100%;
+  }
+
+  .details1, .details2 {
+      width: 100%;
+      padding-right: 0;
+  }
+
+  .details2{
+    margin-top:20px;
+  }
+
+
+  .card {
+      margin: 4% 0 0 0;
+  }
+
+  .details-tab .card {
+      padding: 2%;
+  }
+
+  .container-type {
+      display: block;
+  }
+  .resumen-type-details {
+      width: 100%;
+          margin: 0;
+  }
+
+  .card .text-right {
+      position: relative;
+      text-align: left!important;
+          margin: 0 1em 1em 1em;
+  }
+
+  #login {
+      padding: 1.5em 2em;
+
+  }
+
+  .f-content {
+    width: 100%;
+    padding: 1em 0em 1em 0em;
+  }
+
+  .select-login {
+    width: 80%;
+  }
+
+  .return-login {
+    margin-left: 2em;
+  }
+
+  .bienvenido-grid-content {
+    flex-basis: 100%;
+    max-width: 100%;
+    padding: 2em;
+  }
+
+  .bienvenido-grid {
+    display: block;
+  }
+
+  .vitrina li {
+    width: 50%;
+  }
+
+  .form_container > .form-test:nth-child(1) {
+    width: 100%;
+  }
+
+
+  .form_container > .form-test:nth-child(2) {
+    width: 100%;
+  }
+
+  
+
+  .form-test {
+    padding: 15px 0;
+  }
+
+  .resumeOrder .vitrina li {
+    width: 50%;
+  }
+
+  .chooseOrder .vitrina li {
+    width: 50%;
+  }
+
+  .d-container{
+    height: auto;
+  }
+
+  .details-block .tag-cut{
+    display: block;
+    padding: 0;
+  }
+
+
+}
